@@ -1,4 +1,4 @@
-module addressbook
+module github.com/yutohub/addressbook
 
 go 1.18
 
