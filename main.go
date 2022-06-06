@@ -1,11 +1,12 @@
 package main
 
 import (
-	"addressbook/controller"
 	"database/sql"
 	"flag"
 	"fmt"
 	"os"
+
+	"github.com/yutohub/addressbook/controller"
 
 	_ "modernc.org/sqlite"
 )
